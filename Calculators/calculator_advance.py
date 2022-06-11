@@ -1,5 +1,3 @@
-from tkinter import Y
-
 
 logo = """
  _____________________
