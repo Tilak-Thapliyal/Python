@@ -94,6 +94,46 @@
 # print(f"your password is {final_password}")
 
 
+#hangman_game
+# from hangman_art import logo
+# from hangman_art import stages
+# import random
+# from hangman_word import word_list
+# import os
+
+# def print_logo():
+#     print(logo)
+
+# def clear():
+#     os.system( 'cls' )
+
+# random_word = random.choice(word_list)
+# random_word_list = list(random_word)
+# print(random_word_list)
+    
+
+# display = []
+# for i in range(len(random_word_list)):
+#     display += "_"
+#     print(display)
+
+# game_over = False
+# while not game_over:
+#     new_display = []
+#     guess_letter = input("guess a letter: ").lower
+#     if guess_letter in display:
+#         for i in display:
+
+        
+
+
+
+
+
+
+
+
+
 
 
 
